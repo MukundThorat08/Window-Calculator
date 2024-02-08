@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="Icons">
+    <file>icons/calculator_icon.svg</file>
+    <file>icons/backspace.svg</file>
+    <file>icons/close.svg</file>
+    <file>icons/cube.svg</file>
+    <file>icons/menu.svg</file>
+    <file>icons/square.svg</file>
+  </qresource>
+</RCC>
