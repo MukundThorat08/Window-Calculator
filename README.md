@@ -1,5 +1,5 @@
 # Window-Calculator 🟰
-this is just regular calculator
+Simple & Minimilistic windows calculator app
 
 - ## How to install
 1. Download the whole directory to your system
